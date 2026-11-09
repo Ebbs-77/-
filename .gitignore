@@ -1,0 +1,8 @@
+target/
+*.o
+*.bin
+*.img
+*.elf
+*.iso
+.DS_Store
+Thumbs.db
