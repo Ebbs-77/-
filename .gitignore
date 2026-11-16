@@ -1,6 +1,8 @@
 target/
 *.o
 *.bin
+!bootloader/opensbi.bin
+!实验2/opensbi.bin
 *.img
 *.elf
 *.iso
