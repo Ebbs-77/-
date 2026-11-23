@@ -3,6 +3,7 @@ target/
 *.bin
 !bootloader/opensbi.bin
 !实验2/opensbi.bin
+os/src/link_app.S
 *.img
 *.elf
 *.iso
